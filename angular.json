@@ -87,7 +87,12 @@
                 "glob": "_redirects",
                 "input": "",
                 "output": "/"
-              }
+              },
+               {
+                  "glob": "web.config",
+                  "input": "public",
+                  "output": "/"
+                }
                         
             ],
             "styles": [
