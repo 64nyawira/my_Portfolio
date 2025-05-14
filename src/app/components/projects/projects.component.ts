@@ -31,11 +31,11 @@ import { FormsModule } from '@angular/forms';
 export class ProjectsComponent {
   projects = [
     {
-      title: 'E-Restaurant Platform',
+      title: 'E-Restaurant Platform | DineDash',
       description: 'A fully functional e-commerce platform with product listings, shopping cart, checkout process, and admin dashboard.',
       imageUrl: 'assets/dinedash-placeholder-1.jpg',
       technologies: ['Angular', 'Node.js', 'Express', 'MSSQL'],
-      demoUrl: '#',
+      demoUrl: 'https://singular-daffodil-cc2224.netlify.app/',
       codeUrl: 'https://github.com/64nyawira/Dinedash.git'
     },
     {
