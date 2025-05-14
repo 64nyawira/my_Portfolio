@@ -33,7 +33,7 @@ export class ProjectsComponent {
     {
       title: 'E-Restaurant Platform | DineDash',
       description: 'A fully functional e-commerce platform with product listings, shopping cart, checkout process, and admin dashboard.',
-      imageUrl: 'assets/dinedash-placeholder-1.jpg',
+      imageUrl: 'assets/dinedash-placeholder.png',
       technologies: ['Angular', 'Node.js', 'Express', 'MSSQL'],
       demoUrl: 'https://singular-daffodil-cc2224.netlify.app/',
       codeUrl: 'https://github.com/64nyawira/Dinedash.git'
@@ -73,9 +73,9 @@ export class ProjectsComponent {
     {
       title: 'Portfolio Website',
       description: 'A modern, responsive portfolio website built with Angular to showcase my projects and skills.',
-      imageUrl: 'assets/portfolio-placeholder-6.jpg',
+      imageUrl: 'assets/portfolio-placeholder.png',
       technologies: ['Angular', 'TypeScript', 'CSS Animations'],
-      demoUrl: '#',
+      demoUrl: 'https://majestic-dodol-69163b.netlify.app/',
       codeUrl: 'https://github.com/64nyawira/portfolio.git'
     }
   ];
